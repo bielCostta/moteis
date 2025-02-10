@@ -1,2 +1,3 @@
 # moteis
-APP replica do Guia de moteis
+
+A new Flutter project.
