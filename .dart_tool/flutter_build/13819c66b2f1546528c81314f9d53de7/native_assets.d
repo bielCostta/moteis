@@ -1,0 +1,1 @@
+ /Users/usuario/Desktop/moteis/.dart_tool/flutter_build/13819c66b2f1546528c81314f9d53de7/native_assets.yaml: 
